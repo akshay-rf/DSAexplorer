@@ -29,11 +29,11 @@ DSA Explorer is a Java desktop application designed to explore and analyze funda
 
 ## Usage
 - Upon launching the application, you will be presented with a user interface containing options to explore different algorithms and data structures.
-
+   ![home](https://i.ibb.co/F4WNGsy/Screenshot-2024-04-15-000625.png)
 - Select an algorithm category (e.g., Search, Sort, Graph) to view available algorithms.
-
+   ![search](https://i.ibb.co/xMbLBYB/Screenshot-2024-04-15-001008.png)
 - Choose an algorithm and dataset to run the algorithm on, then observe the performance analysis results.
-
+   ![analyse](https://i.ibb.co/z6nb0ML/Screenshot-2024-04-15-001136.png)
 ## Contribute
 Contributions to DSA Explorer are welcome! Here's how you can contribute:
 1. **Fork the Repository:** Click the "Fork" button on GitHub to create your own copy of the repository.
