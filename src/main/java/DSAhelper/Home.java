@@ -62,7 +62,7 @@ class Home extends JPanel {
         redir.setContentAreaFilled(false);
         redir.setCursor(new Cursor(Cursor.HAND_CURSOR));
         redir.addActionListener(e -> {
-            String s = "http://www.google.com";
+            String s = "https://github.com/akshay-rf/DSAexplorer/blob/master/LICENSE";
             Desktop desktop = Desktop.getDesktop();
             try {
                 desktop.browse(URI.create(s));
